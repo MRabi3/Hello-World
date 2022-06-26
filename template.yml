@@ -11,7 +11,7 @@ Resources:
       KeyName: ubuntucd
       # Change this, as applicable to you
       # You may need to find out what instance types are available in your region - use https://cloud-images.ubuntu.com/locator/ec2/
-      ImageId: 'ami-0d70546e43a941d70' 
+      ImageId: 'ami-083654bd07b5da81d' 
       InstanceType: t1.micro
   InstanceSecurityGroup:
     Type: 'AWS::EC2::SecurityGroup'
